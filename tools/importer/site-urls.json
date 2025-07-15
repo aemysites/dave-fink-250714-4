@@ -1,0 +1,104 @@
+{
+  "originUrl": "https://www.vizimpro.com",
+  "lastCrawled": "https://www.vizimpro.com/",
+  "urls": [
+    {
+      "url": "https://www.vizimpro.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "dd21e18de1bf461aced61361b4b951281faebc5a"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "source": "SITEMAPS",
+      "targetPath": "/about-nsclc",
+      "id": "ee55492941442059f6feb96136736b34c06439e5"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-vizimpro",
+      "source": "SITEMAPS",
+      "targetPath": "/about-vizimpro",
+      "id": "c4b39969ff5496699646d74348bbbb11cb70778c"
+    },
+    {
+      "url": "https://www.vizimpro.com/additional-support",
+      "source": "SITEMAPS",
+      "targetPath": "/additional-support",
+      "id": "a245a64f368b597d2959e7007efdf4bec77ef8a6"
+    },
+    {
+      "url": "https://www.vizimpro.com/downloadable-materials",
+      "source": "SITEMAPS",
+      "targetPath": "/downloadable-materials",
+      "id": "651409bb4c7a392bb5636232488d6728105ff2cd"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "source": "SITEMAPS",
+      "targetPath": "/financial-assistance",
+      "id": "118e9aff13b3f406d1a2cbea6870531582cdd7ed"
+    },
+    {
+      "url": "https://www.vizimpro.com/helping-you-prepare",
+      "source": "SITEMAPS",
+      "targetPath": "/helping-you-prepare",
+      "id": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "source": "SITEMAPS",
+      "targetPath": "/home",
+      "id": "1e95ffd23612234c50a9bfec8f58abaef7462cad"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "source": "SITEMAPS",
+      "targetPath": "/home-cta-blocks",
+      "id": "5766ed49529359cd5b871081d98d60ffc2b9e703"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-slider",
+      "source": "SITEMAPS",
+      "targetPath": "/home-slider",
+      "id": "1b73f316eb90421b135e734533aef04052f1bef2"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/10",
+      "source": "SITEMAPS",
+      "targetPath": "/node/10",
+      "id": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/9",
+      "source": "SITEMAPS",
+      "targetPath": "/node/9",
+      "id": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "source": "SITEMAPS",
+      "targetPath": "/support-resources",
+      "id": "698baad39c14e8d8a955aa196be7b95add333478"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "source": "SITEMAPS",
+      "targetPath": "/what-to-expect",
+      "id": "0045e21d6c30b0f6ac3dea32881e7f6f79577251"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
