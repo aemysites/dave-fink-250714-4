@@ -1,0 +1,1806 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 2,
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-01-f8af5265ddd9fe955a46d41aa9498fb59e250048",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-01-fbfd72bb60fbf6db9e5ee296088d1a9bff227248",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-01-f8af5265ddd9fe955a46d41aa9498fb59e250048",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 165
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 3,
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-23-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-22-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-21-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-14-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-13-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-12-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-05-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-04-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-03-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-06-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-05-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-04-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-05-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-04-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-03-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-21-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-20-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-19-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-05-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-04-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-03-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-11-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-10-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-09-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-12-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-11-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-10-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-06-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-05-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-04-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-10-b4f98702a178c17b0324b71915d4c1174354997a",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-07-980fae51ffd7b1d3c271257af78b101df18ed2be",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 2,
+      "source": "Header",
+      "target": "Header (header2)",
+      "key": "header2",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-00-e20b02a0e55a0d1c324debedfccf836ec87d2f93",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-02-e00371c7e3405cdd8aec1776671bb444ff4a8042",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-02-e00371c7e3405cdd8aec1776671bb444ff4a8042",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-02-e00371c7e3405cdd8aec1776671bb444ff4a8042",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-02-e00371c7e3405cdd8aec1776671bb444ff4a8042",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-23-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-14-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-05-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-06-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-05-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-21-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-05-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-11-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-12-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-13-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-06-26de97720e000620d84050d2722d33f68a2ec7b2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-19-6e68ff0d34f563d7e51c4c319df68a377045d359",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-09-e1c75c845108137aff6f7e92f031695f2c3ce892",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-17-6e68ff0d34f563d7e51c4c319df68a377045d359",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-08-6e68ff0d34f563d7e51c4c319df68a377045d359",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-09-e1c75c845108137aff6f7e92f031695f2c3ce892",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-09-6e68ff0d34f563d7e51c4c319df68a377045d359",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-slider",
+          "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+          "uuid": "1b73f316-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/10",
+          "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+          "uuid": "5808c9b1-02-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/downloadable-materials",
+          "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+          "uuid": "651409bb-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/helping-you-prepare",
+          "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+          "uuid": "84ce6457-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-07-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-01-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/node/9",
+          "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+          "uuid": "fc17aa0d-02-2e92bec500d5383c4ce66f2b71cfa025d4d2e95e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 7,
+      "source": "Accordion",
+      "target": "Accordion (accordion7)",
+      "key": "accordion7",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-10-f8b37fb66e0fcc567f34dcf155a2354eb243908f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-11-c67ab166dbb72e86f48bf53232dbec457ef93d87",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-15-54d7a130d82091d60d257bb7866946e2a1841cb6",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-16-d734cc25ed3722c4bbbd99a0013613ed380a9ae9",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-06-9a6920a7dfdf34716c5030e534512ecac45ddedd",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 10,
+      "source": "Carousel",
+      "target": "Carousel",
+      "key": "carousel10",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-03-3ceda67096cd62e0d5c27a3962a23d60d7674591",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-03-3ceda67096cd62e0d5c27a3962a23d60d7674591",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 11,
+      "source": "Accordion",
+      "target": "Accordion (accordion11)",
+      "key": "accordion11",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-12-43695cd6fbefc84ddbaadccbed47893120fdafba",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-13-46714dd774866db85033f36278f006844fb579a1",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-14-ceb7dc1943fe2c57a652ee09035613759198f22e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cards12)",
+      "key": "cards12",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-07-203d8334cf1bd221f9a764dfa4266bc847d70ad8",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-07-203d8334cf1bd221f9a764dfa4266bc847d70ad8",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/financial-assistance",
+          "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+          "uuid": "118e9aff-06-f67ef1229166a4fb89c1c5864ed2a468216eb7df",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-08-dae357fdb47095537d29a80d8ba94940cb87021f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-16-3f7552cbe0a09c0422c0d1699eb90aa1959a0b9a",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[6]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-04-db8cc4b4a05e77f5ab7f469511492b03055aa653",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 16,
+      "source": "Hero",
+      "target": "Hero (hero16)",
+      "key": "hero16",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-05-e253f711d4aff980c6846b31ec8ff6a74422ad38",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]/div[1]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-05-8bcd4a0f3f38f4e972066bf8f6ffcd50ae20e5e6",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 18,
+      "source": "Hero",
+      "target": "Hero (hero18)",
+      "key": "hero18",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-05-d080290ed96cf543b61dce5afdb88c717f6b680e",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 19,
+      "source": "Tabs",
+      "target": "Tabs",
+      "key": "tabs19",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-06-f8af5265ddd9fe955a46d41aa9498fb59e250048",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/home-cta-blocks",
+          "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+          "uuid": "5766ed49-06-f1382c429aab2e54b765155ee3a40c6fac0c118a",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/support-resources",
+          "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+          "uuid": "698baad3-03-884d45b31a63fa8159a56b3bd901bd575993c713",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-03-884d45b31a63fa8159a56b3bd901bd575993c713",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/what-to-expect",
+          "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+          "uuid": "0045e21d-15-6a914cb641f69bd767e961f22212f1b89e7f9e26",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns",
+      "target": "Columns (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/about-vizimpro",
+          "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+          "uuid": "c4b39969-03-884d45b31a63fa8159a56b3bd901bd575993c713",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cards25)",
+      "key": "cards25",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-02-e018896a9522ebaa5b0682ca1b8c5ecf583b2953",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-03-3734c7e4ee4a795796bbf6221c8dfc3b919facae",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]"
+        },
+        {
+          "url": "https://www.vizimpro.com/additional-support",
+          "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+          "uuid": "a245a64f-04-2e27606c78f03d6ef9f32bdf6f0202dfc7aa50d2",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns",
+      "target": "Columns (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/home",
+          "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+          "uuid": "1e95ffd2-06-5758e4fe8c0560cd8a417c0682fcb67c9758d975",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.vizimpro.com/",
+          "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+          "uuid": "dd21e18d-06-5758e4fe8c0560cd8a417c0682fcb67c9758d975",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 27,
+      "source": "Columns",
+      "target": "Columns (columns27)",
+      "key": "columns27",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-03-f267210d1fe6d06588bb9aa892a2f2fe1f42d8ff",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 28,
+      "source": "Columns",
+      "target": "Columns (columns28)",
+      "key": "columns28",
+      "instances": [
+        {
+          "url": "https://www.vizimpro.com/about-nsclc",
+          "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+          "uuid": "ee554929-07-f93ab0d98590b4a0fe7cec8e65ade6ce04ad7d5f",
+          "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]/div[3]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-04-db8cc4b4a05e77f5ab7f469511492b03055aa653",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-05-8b60a2f31f158bc7771da550d118acc85ce5526d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-07-6a6b179f386c2791b38a2b535c963b9bf582cc23",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/p[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-08-d5ec9e4d00b15c4dc2d001c85076638754095513",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-09-d15a8e95ae2e32408fb4ce3e2e75a0cf30c51678",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-11-2f7e2d5da32f60fbc061d8936ec780d3d575fd7b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-17-0d3ab57e8ec14172a533434c1e258a040e5b2b34",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[6]/ul[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-18-50b26b9ac036e6ac5677dda003766938e2dfa0ae",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[6]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-20-2298cd2126ba5e28eb5ecf2a21e350c3a50032a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-21-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/what-to-expect",
+      "urlHash": "0045e21d6c30b0f6ac3dea32881e7f6f79577251",
+      "uuid": "0045e21d-22-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-02-22fcf706efba828041cb2edd7c54f5bdb8497efb",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-03-f4824459aa5f20466406fc6ad07722210f1fdb7d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-04-91437abb537cb5816100d5492ab05c24aa6263ad",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-05-4fce451b5b705508268a05a219f1fd6248451d05",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-07-1c43616369ec051a5ea117fe872bf3b8ccbf6674",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-08-631414204460c56d0f530d494b67400344c1d54e",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-09-e192c3ea571b06adec444e44f1a0f830590ec2e7",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-10-71b1d5c1bcd1ff13e8d662f9f12df59ba2d655d5",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-11-a82dd773971c9a0966881b2d778a4cc820ebff86",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-12-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/financial-assistance",
+      "urlHash": "118e9aff13b3f406d1a2cbea6870531582cdd7ed",
+      "uuid": "118e9aff-13-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-slider",
+      "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+      "uuid": "1b73f316-02-476ef7a580f01900b00f056f4ccf5ab8950e0ba9",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-slider",
+      "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+      "uuid": "1b73f316-03-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-slider",
+      "urlHash": "1b73f316eb90421b135e734533aef04052f1bef2",
+      "uuid": "1b73f316-04-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-02-5195a7f5e8a4b0da8b4e060da374e444e6264f79",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/ol[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-04-aef7de322b8e9e869c55a75dbbc860b981d3ca6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-05-d98007f70e05bace8508342bd9fd7e45db09715f",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-08-3c539e1027ab4a0f6d389783d9d40ea318cb303c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-10-2298cd2126ba5e28eb5ecf2a21e350c3a50032a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home",
+      "urlHash": "1e95ffd23612234c50a9bfec8f58abaef7462cad",
+      "uuid": "1e95ffd2-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-02-22fcf706efba828041cb2edd7c54f5bdb8497efb",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-03-f4824459aa5f20466406fc6ad07722210f1fdb7d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-04-907a3b6ad6b2af5439b63e7f684451490b8fc0b6",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-05-5b65192835f6eb57b3b21fc8770511e7bcead798",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-07-c3002a5c59f868e4c48d2d79476deae574385b1a",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-08-57f7794fa4e4fb86e2f7e3cf7bf04cf4101c227c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-09-71b1d5c1bcd1ff13e8d662f9f12df59ba2d655d5",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/article[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-10-a82dd773971c9a0966881b2d778a4cc820ebff86",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/home-cta-blocks",
+      "urlHash": "5766ed49529359cd5b871081d98d60ffc2b9e703",
+      "uuid": "5766ed49-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/10",
+      "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+      "uuid": "5808c9b1-01-f8af5265ddd9fe955a46d41aa9498fb59e250048",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/10",
+      "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+      "uuid": "5808c9b1-03-476ef7a580f01900b00f056f4ccf5ab8950e0ba9",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/10",
+      "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+      "uuid": "5808c9b1-04-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/10",
+      "urlHash": "5808c9b1fd04b859ad8a67f5a36c31c69648d0a8",
+      "uuid": "5808c9b1-05-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/downloadable-materials",
+      "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+      "uuid": "651409bb-02-476ef7a580f01900b00f056f4ccf5ab8950e0ba9",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/downloadable-materials",
+      "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+      "uuid": "651409bb-03-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/downloadable-materials",
+      "urlHash": "651409bb4c7a392bb5636232488d6728105ff2cd",
+      "uuid": "651409bb-04-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-04-db8cc4b4a05e77f5ab7f469511492b03055aa653",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-05-0979d22712988b25e0fd0274d13197b7d5bd7e7b",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-06-3a84d66431de339ebe699b2ca14078346edebb6d",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/p[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-09-c771c679092bc2a114203ac54047fb9c9359ba77",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-12-3b73b4006d7070da8efef992a6f63a374c04f777",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-13-b6632b3a10ffac6efe6c60dfe2c85191f24f9957",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-14-755a44bbed46b3a11469b18fe1ab0860b4eca909",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[7]/div[1]/div[1]/h3[2]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-18-2298cd2126ba5e28eb5ecf2a21e350c3a50032a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-19-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/support-resources",
+      "urlHash": "698baad39c14e8d8a955aa196be7b95add333478",
+      "uuid": "698baad3-20-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/helping-you-prepare",
+      "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+      "uuid": "84ce6457-02-476ef7a580f01900b00f056f4ccf5ab8950e0ba9",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/helping-you-prepare",
+      "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+      "uuid": "84ce6457-03-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/helping-you-prepare",
+      "urlHash": "84ce6457f3ce32e0a7b03ad337d4d06c4442014d",
+      "uuid": "84ce6457-04-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/additional-support",
+      "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+      "uuid": "a245a64f-01-fbfd72bb60fbf6db9e5ee296088d1a9bff227248",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.vizimpro.com/additional-support",
+      "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+      "uuid": "a245a64f-08-476ef7a580f01900b00f056f4ccf5ab8950e0ba9",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/additional-support",
+      "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+      "uuid": "a245a64f-09-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/additional-support",
+      "urlHash": "a245a64f368b597d2959e7007efdf4bec77ef8a6",
+      "uuid": "a245a64f-10-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-vizimpro",
+      "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+      "uuid": "c4b39969-06-c68ef70b0814b13f2a875be8480c5dc659a7c450",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-vizimpro",
+      "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+      "uuid": "c4b39969-07-d15a8e95ae2e32408fb4ce3e2e75a0cf30c51678",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/p[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-vizimpro",
+      "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+      "uuid": "c4b39969-09-2298cd2126ba5e28eb5ecf2a21e350c3a50032a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-vizimpro",
+      "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+      "uuid": "c4b39969-10-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-vizimpro",
+      "urlHash": "c4b39969ff5496699646d74348bbbb11cb70778c",
+      "uuid": "c4b39969-11-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-02-5195a7f5e8a4b0da8b4e060da374e444e6264f79",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/ol[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-04-aef7de322b8e9e869c55a75dbbc860b981d3ca6e",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-05-d98007f70e05bace8508342bd9fd7e45db09715f",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-08-3c539e1027ab4a0f6d389783d9d40ea318cb303c",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-10-2298cd2126ba5e28eb5ecf2a21e350c3a50032a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/",
+      "urlHash": "dd21e18de1bf461aced61361b4b951281faebc5a",
+      "uuid": "dd21e18d-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+      "uuid": "ee554929-04-fe9ebc169d2e86a1eec2543d68eb33c2bd15c0d4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+      "uuid": "ee554929-06-4da9a532afa371cd4a192a570f336adc38e2d01a",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+      "uuid": "ee554929-08-219be2ef507ea211c63a7e11b9d09e8e21a73adb",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[2]/div[1]/div[2]/p[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+      "uuid": "ee554929-10-2298cd2126ba5e28eb5ecf2a21e350c3a50032a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/section[1]/div[2]/section[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+      "uuid": "ee554929-11-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/about-nsclc",
+      "urlHash": "ee55492941442059f6feb96136736b34c06439e5",
+      "uuid": "ee554929-12-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/9",
+      "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+      "uuid": "fc17aa0d-01-f8af5265ddd9fe955a46d41aa9498fb59e250048",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/9",
+      "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+      "uuid": "fc17aa0d-03-476ef7a580f01900b00f056f4ccf5ab8950e0ba9",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/9",
+      "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+      "uuid": "fc17aa0d-04-9025f5ac63480b0f8af054d2c6f6e275cf042945",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://www.vizimpro.com/node/9",
+      "urlHash": "fc17aa0d4d8a7ab807cf3afcaa4fdd73e082d597",
+      "uuid": "fc17aa0d-05-842f35590bde46c5cb1abddd595ff2aa63b3ac12",
+      "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/footer[1]/div[1]/nav[1]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(232, 245, 253) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 7
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(249, 165, 79) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 7
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(255, 240, 224) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(242, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 8
+    },
+    {
+      "name": "section-5",
+      "background": "rgb(16, 86, 119) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.vizimpro.com/profiles/pfpfvizimprocom_profile/themes/custom/vizimpro/images/1-0-2_ScrollingCalloutBG.png\") no-repeat fixed 0% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-7",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.vizimpro.com/profiles/pfpfvizimprocom_profile/themes/custom/vizimpro/images/blue_tr.png\") repeat-y scroll 0% 0% / contain padding-box border-box",
+      "count": 1
+    }
+  ]
+}
